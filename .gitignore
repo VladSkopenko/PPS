@@ -1,0 +1,25 @@
+# Credentials
+google-cloud-key.json
+*.json
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Results
+result.txt
+*_extracted.txt
+debug_*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,10 @@
+# Минимальный набор для работы с Google Cloud Vision API
+
+# Google Cloud Vision API
+google-cloud-vision>=3.4.0
+
+# Работа с PDF
+PyMuPDF>=1.23.0
+
+# Работа с изображениями
+Pillow>=10.0.0
